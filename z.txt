@@ -1,0 +1,68 @@
+Admin Functions
+- User Management
+    - Manage user accounts (View, Edit, Delete).
+    - Monitor user roles and permissions
+
+- Event Management
+    - Create, edit, approve, and delete events.
+    - Assign employees to specific events
+
+- Analytics
+    - View statistics
+
+- Content Management
+    - Update website content ['announcements, news']
+    - Manage FAQs and help sections
+
+- Email Notifications
+    - send emails and notifications
+
+User Functions
+- Registation and profile Management
+    - Sign Up, Log in, manage profiles
+    - Update perosnal information
+
+- Browse events
+    - Check events
+    - Event filters
+
+- Reviews and Feedback
+    - Leave reviews and ratings for attended events
+
+Employee Functions
+- Event Assignment and Management
+    - view assigned events and their details
+    - Manage event logistics
+
+- Communication Tools
+    - Internal messaging system for coordination with other employees and Admin
+
+Visitor Functions
+- Contact
+    - Access contact forms on sign in only
+
+Extra features
+- Role Based Access Control
+- Search filters
+
+
+Pages
+- Home
+- Registation
+- Login
+- User Dashboard
+- Event Listing
+- Event Details
+- Profile
+- Admin Dashboard
+- Employee Dashboard
+- Event Creation
+- FAQ '
+- Contact Us
+- Terms and Conditions
+- Privacy Policy
+- Blog or News '
+- Reviews and Feedback '
+- Error Pages
+- Notifications
+- 
