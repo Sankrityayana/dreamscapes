@@ -65,3 +65,25 @@ Pages
 - Reviews and Feedback '
 - Error Pages
 - Notifications
+
+
+DASHBOARD
+- User Dashboard
+    - Home or overview
+    - My events
+    - Profile
+    - Notifications
+    - Feedback
+
+- Admin Dashboard
+    - overview
+    - Manage events
+    - User management
+    - Analytics
+
+- Employee Dashboard
+    - Assigned events
+    - Event Setup
+    - Feedback
+    - Tasks
+    - Profile
