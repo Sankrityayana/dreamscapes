@@ -53,5 +53,21 @@ a {
     background-color: aqua;
     border: 1px solid black;
     border-radius: 10px;
-    margin: 150px 70px;
+    margin: 150px 70px 100px 70px;
+}
+
+.address {
+    background-color: aqua;
+    height: 200px;
+    margin: 0 70px 50px 70px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.footer {
+    background-color: aqua;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 0 70px 30px 70px;
 }
